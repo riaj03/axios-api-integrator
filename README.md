@@ -1,7 +1,10 @@
 
 # API integration file generator
 
-### Update `config.json`
+## Run the generator
+1. Clone the repository
+2. Go to the project
+3. Update `config.json`
 
 ```
 {
@@ -10,7 +13,7 @@
 }
 
 ```
-### Create `<Model>.json` files in `/input_files`
+4. Create `<Model>.json` files in `/input_files`
 
 ```
 {
@@ -29,7 +32,8 @@
 }
 ```
 
-### Run this command from your terminal
+5. Run this command from your terminal
 ```
 node index.js input_files/model01.json input_files/model02.json
 ```
+6. Chill
