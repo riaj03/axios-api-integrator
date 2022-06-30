@@ -1,0 +1,8 @@
+{
+  "model": "messageSendSachOther",
+  "pleuralModel": "messageSendSachOthers",
+  "methods": ["post", "post"],
+  "directory": "src/apis/",
+  "apiendpointsFile": "apiEndpoints.js",
+  "apiendpointsObject": "messageSendSachOther"
+}

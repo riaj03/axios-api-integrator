@@ -1,0 +1,8 @@
+{
+  "model": "messagesAdvisor",
+  "pleuralModel": "messagesAdvisors",
+  "methods": ["get"],
+  "directory": "src/apis/",
+  "apiendpointsFile": "apiEndpoints.js",
+  "apiendpointsObject": "messagesAdvisor"
+}

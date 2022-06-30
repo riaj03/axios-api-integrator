@@ -1,0 +1,8 @@
+{
+  "model": "interviewUserProfile",
+  "pleuralModel": "interviewUserProfiles",
+  "methods": ["get"],
+  "directory": "src/apis/",
+  "apiendpointsFile": "apiEndpoints.js",
+  "apiendpointsObject": "interviewUserProfile"
+}

@@ -1,0 +1,8 @@
+{
+  "model": "interviewConfirmAdvisor",
+  "pleuralModel": "interviewConfirmAdvisors",
+  "methods": ["put"],
+  "directory": "src/apis/",
+  "apiendpointsFile": "apiEndpoints.js",
+  "apiendpointsObject": "interviewConfirmAdvisor"
+}

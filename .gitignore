@@ -1,3 +1,5 @@
+.DS_Store
+/output_files/
 # Logs
 logs
 *.log
@@ -101,4 +103,5 @@ dist
 .dynamodb/
 
 # TernJS port file
+.tern-port
 .tern-port
